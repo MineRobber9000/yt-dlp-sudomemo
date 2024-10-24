@@ -21,7 +21,7 @@ class SudomemoIE(InfoExtractor):
             'info_dict': {
                 'id': 'LXH21J',
                 'title': 'road work',
-                'channel': 'AuroraXD'
+                'channel': 'AuroraXD',
                 'creators': ['AuroraXD']
             }
         },
